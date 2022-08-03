@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+  flex-direction: column;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 400px;
+  padding: 15px;
+  margin: auto;
+}
+img {
+  width: 72px;
+}
+.text-center {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
